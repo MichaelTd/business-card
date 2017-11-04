@@ -1,5 +1,5 @@
 ## business-card
-business-card idea from [lemongraphic](https://dribbble.com/shots/1964414-Notepad-Programmer-Business-Card-Design)
+an idea from [lemongraphic](https://dribbble.com/shots/1964414-Notepad-Programmer-Business-Card-Design)
 
 #### Atom
 <img src="atom.png">
