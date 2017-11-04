@@ -1,14 +1,14 @@
 # business-card
-business-card an idea from
+business-card an idea from ...
 
-Atom
+#### Atom
 <img src="atom.png">
 
-Emacs
+#### Emacs
 <img src="emacs.png">
 
-gVim
+#### gVim
 <img src="gvim.png">
 
-nEdit
+#### nEdit
 <img src="nedit.png">
